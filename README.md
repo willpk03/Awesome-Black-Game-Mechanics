@@ -1,3 +1,8 @@
+# Mechanics created for Awesome Black's Video Game
+Below is a deep dive into my thought process for each major mechanic I created. If your interested to get an understanding of most of the mechanics in a video form <a href="https://youtu.be/O8pYdZHz7CY">click here</a>
+
+
+
 ### Dialogue
 Dialogue System handled everything that occured the second the Dialogue showed on screen to the moment it disappeared. 
 
